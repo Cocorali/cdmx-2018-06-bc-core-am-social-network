@@ -1,5 +1,10 @@
 
  
+## Garnachap
+Descubre y comparte las mejores garnachas de la ciudad.
+
+![garnachapp](https://user-images.githubusercontent.com/39315448/49194691-c9498180-f349-11e8-9386-f9bba3240c6f.JPG)
+
 ## Descripción y alcance del programa
 
 ¡Hemos traído para ti una red social que te encantará!. ¿Por qué?, porque reúne lo mejor de la comida mexicana en su expresión más local. GarnachApp te permitirá explorar barrios comunes de tu ciudad para disfrutar de experiencias gastronómicas tradicionales y caseras. Sabemos que estás cansadx de ir a los mismos lugares en las mismas colonias, ¿qué tal unas tostadas de pata o una gordita de masa azul para cenar?. Estás a unos pasos de conseguir las recomendaciones de tus amigos sobre lugares "secretos" que albergan sabores ¡muy garnacheros!. A continuación, encontrarás las instrucciones de instalación para que puedas comenzar a visitar y compartir lugares.
